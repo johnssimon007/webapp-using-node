@@ -6,7 +6,7 @@ configure the dbconnect.js file with your mysql database credentials
 .export users.sql file to you local phpmyadmin
 
 #installing all packages:
- goto project root from terminal//cd <your projectname>
+ goto project root from terminal
  .npm install//this will install all the modules
  
  #running the project locally:
